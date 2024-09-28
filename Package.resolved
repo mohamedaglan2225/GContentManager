@@ -1,0 +1,59 @@
+{
+  "originHash" : "e6ba98bcf1d346e588af1c6bc79b80d99ece0026953ae95172f3a7489c3f3f23",
+  "pins" : [
+    {
+      "identity" : "gcolorpalet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mohamedaglan2225/GColorPalet.git",
+      "state" : {
+        "revision" : "74de6c08b36824c524207ac79131fcbc69f6168c"
+      }
+    },
+    {
+      "identity" : "hammelnewuikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Qyoom-Company/HammelNewUIKit",
+      "state" : {
+        "revision" : "cf61d16e1ed0e214301a58267b4baa2887dba519",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "hutility",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Qyoom-Company/HUtility",
+      "state" : {
+        "revision" : "91657181d75321f09d2de2ec118ebead22ce355d",
+        "version" : "1.1.4"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "2ef543ee21d63734e1c004ad6c870255e8716c50",
+        "version" : "7.12.0"
+      }
+    },
+    {
+      "identity" : "passcodelock",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Qyoom-Company/PasscodeLock",
+      "state" : {
+        "revision" : "5f5235141c522644536db15e9fa6d5b817eda711",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "zephyr",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ArtSabintsev/Zephyr.git",
+      "state" : {
+        "revision" : "b0dda179006b354680b1df96e279134a704b0c06",
+        "version" : "3.8.0"
+      }
+    }
+  ],
+  "version" : 3
+}
