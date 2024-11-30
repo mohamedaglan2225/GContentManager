@@ -12,16 +12,16 @@ let package = Package(
             name: "GContentManager",
             targets: ["GContentManager"]),
     ],
-    dependencies: [
-        .package(url: "https://github.com/Qyoom-Company/PasscodeLock", from: "1.0.0"),
-        .package(url: "https://github.com/Qyoom-Company/HammelNewUIKit", from: "1.0.0"),
-        .package(url: "https://github.com/mohamedaglan2225/GColorPalet.git", revision: "74de6c08b36824c524207ac79131fcbc69f6168c"),
-    ],
+//    dependencies: [
+//        .package(url: "https://github.com/Qyoom-Company/PasscodeLock", from: "1.0.0"),
+//        .package(url: "https://github.com/Qyoom-Company/HammelNewUIKit", from: "1.0.0"),
+//        .package(url: "https://github.com/mohamedaglan2225/GColorPalet.git", revision: "74de6c08b36824c524207ac79131fcbc69f6168c"),
+//    ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "GContentManager", dependencies: ["GColorPalet", "PasscodeLock"]),
+            name: "GContentManager"),
         .testTarget(
             name: "GContentManagerTests",
             dependencies: ["GContentManager"]),
