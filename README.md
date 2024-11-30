@@ -1,4 +1,4 @@
-# GContentManager -
+# GContentManager
 
 **GContentManager** is a comprehensive Swift package designed to simplify file management tasks in your iOS applications. It provides a clean and modular architecture for performing various file operations, retrieving file metadata, integrating with iCloud, handling trash management, securing files, processing media, customizing files, sorting and searching, and performing background tasks.
 
